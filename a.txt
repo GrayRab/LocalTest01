@@ -12,3 +12,4 @@ aaaa
 new begin
 嗜 士故腹际拦gjla
 local update 01
+github update 01
