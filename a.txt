@@ -14,3 +14,4 @@ new begin
 local update 01
 github update 01
 local update 02
+github update 02
