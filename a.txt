@@ -1,4 +1,4 @@
-This is new file.
+ï»¿This is new file.
 start to modify ...01
 22222222
 3333333
@@ -10,5 +10,5 @@ start to modify ...01
 aaaa
 =====================
 new begin
-ÊÈ Ê¿¹Ê¸¹¼ÊÀ¹gjla
+å—œ å£«æ•…è…¹é™…æ‹¦gjla
 local update 01
